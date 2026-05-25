@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenrecrypt",
+        "uuid": 717369,
+        "checksum": "kb977s"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
